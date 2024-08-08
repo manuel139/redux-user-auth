@@ -12,8 +12,9 @@ Authentication workflow built with the MERN stack & Redux Toolkit.
 - JWT storage with localStorage
 - Automatically fetches user details on page load — Header.js
 - Redux Toolkit's & RTK Query
+-
 
-## Usage
+## Usage of Authentication
 
 ### Starter files
 
